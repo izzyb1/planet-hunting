@@ -1,0 +1,14 @@
+name: planet-hunting
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - black
+  - pytest
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - ipympl
+  - spyder
+  - sympy
